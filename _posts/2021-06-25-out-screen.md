@@ -23,5 +23,5 @@ TAB  =导航键
 <style>video{width:100%}</style>
 
 <video controls="controls" autoplay="autoplay">
-    <source src="https://storage.live.com/items/A78ACCAEBB24EDD7%21420549?.&authkey=!AN0SV9I71Nn8iFk&e=QCwdIY&fd=!aa.mp4" type="video/mp4" />
+    <source src="https://testxxxxx-my.sharepoint.com/:v:/g/personal/he_testxxxxx_onmicrosoft_com/EVlp00RSvVpDtkdwstl2bJcB526Cz7uJsnnsTdPb6ophVA?e=aDHZdM&download=1" type="video/mp4" />
   </video>
